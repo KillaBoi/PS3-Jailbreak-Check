@@ -1,6 +1,6 @@
-<!-- ############### -->
-<!-- PS3 - CECHA-->
 <pages>
+    <!-- #####PHAT##### -->
+    <!-- PS3 - CECHA-->
     <link>
         <title>CECHA00</title>
         <url></url>
@@ -283,7 +283,50 @@
     </link>
     <!-- PS3 - CECHL-->
     <!-- ############### -->
-    
-
+    <!-- PS3 - CECHM-->
+    <link>
+        <title>CECHM03</title>
+        <url></url>
+    </link>
+    <!-- PS3 - CECHM-->
+    <!-- ############### -->
+    <!-- PS3 - CECHP-->
+    <link>
+        <title>CECHP00</title>
+        <url></url>
+    </link>
+    <link>
+        <title>CECHP01</title>
+        <url></url>
+    </link>
+    <link>
+        <title>CECHP04</title>
+        <url></url>
+    </link>
+    <link>
+        <title>CECHP05</title>
+        <url></url>
+    </link>
+    <link>
+        <title>CECHP06</title>
+        <url></url>
+    </link>
+    <link>
+        <title>CECHP07</title>
+        <url></url>
+    </link>
+    <link>
+        <title>CECHP12</title>
+        <url></url>
+    </link>
+    <!-- PS3 - CECHP-->
+    <!-- ############### -->
+    <!-- PS3 - CECHQ-->
+    <link>
+        <title>CECHQ00</title>
+        <url></url>
+    </link>
+    <!-- PS3 - CECHQ-->
+    <!-- #####PHAT##### -->
 
 </pages>
